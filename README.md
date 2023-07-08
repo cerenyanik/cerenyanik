@@ -1,5 +1,5 @@
-## Ceren Yanik
-### :electron: Python Developer & Data Scientist 
+# Ceren Yanik
+## Python Developer & Data Scientist :electron: 
 
 ### Technologies
 Python, Libraries (Scikit-Learn, Pandas, Matplotlib, NumPy, TensorFlow, Keras),  
