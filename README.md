@@ -2,8 +2,8 @@
 ## Python Developer & Data Scientist :electron: 
 
 ### Technologies
-Python, Libraries (Scikit-Learn, Pandas, Matplotlib, NumPy, TensorFlow, Keras),  
-Machine Learning, SQL, Git & GitHub, Benchling, AWS, Docker, Big Data Ecosystem, Big O Notation
+**Python, Libraries (Scikit-Learn, Pandas, Matplotlib, NumPy, TensorFlow, Keras),  
+Machine Learning, SQL, Git & GitHub, Benchling, AWS, Docker, Big Data Ecosystem, Big O Notation**
 
 ### Dual Nationality and Language
 - :uk: English (Professional working competence)
