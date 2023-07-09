@@ -13,7 +13,6 @@ Machine Learning, SQL, Git & GitHub, Benchling, AWS, Docker, Big Data Ecosystem,
 **E-Mail**: cerenynk@hotmail.com  
 **LinkedIn**: [My LinkedIn Page](https://www.linkedin.com/in/ceren-yanik/?locale=en_US)
 
-Lives in Stratford-upon-Avon but ***ready to relocate***.  
-Currently ***eligible for a Python Developer or Data Scientist role***.  
+Currently ***eligible for a Python Developer or Data Scientist role***.  Lives in Stratford-upon-Avon but ***ready to relocate***.  
 
 <!-- This content will not appear in the rendered Markdown -->
